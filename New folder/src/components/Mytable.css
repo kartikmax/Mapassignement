@@ -1,0 +1,47 @@
+.app-container {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    padding: 1rem;
+  }
+  
+  table {
+    border-collapse: collapse;
+    width: 80%;
+  }
+  
+  th,
+  td {
+    border: 3px solid #ee2b2b;
+    text-align: left;
+    padding: 8px;
+    font-size: 28px;
+  }
+  
+  th {
+    background-color: rgb(20, 151, 226);
+  }
+  
+  td {
+    background-color: rgb(178, 194, 204);
+  }
+.enteries{
+    margin: 20px 20px;
+    justify-content: right;
+}
+/* .btns{
+    display: inline;
+} */
+form  {
+    margin-left: 20px;
+    font-size: 25px;
+    padding-top: -12px;
+}
+button  {
+  height:65px;
+  width: 150px;
+  font-size: 22.5px;
+  background-color: #14d1b8;
+  color: blueviolet;
+  border-radius: 25px ;
+}

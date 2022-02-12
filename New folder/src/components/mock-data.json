@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "countryName": "India",
+      "continent": "Asia",
+      "isdNumber": "+91",
+      "capitalcity": "NewDelhi"
+    },
+    {
+      "id": 2,
+      "countryName": "USA",
+      "continent": "North America",
+      "isdNumber": "+1",
+      "capitalcity": "Washington"
+    },
+    {
+      "id": 3,
+      "countryName": "Great Britain",
+      "continent": "Europe",
+      "isdNumber": "+44",
+      "capitalcity": "London"
+    },
+    {
+      "id": 4,
+      "countryName": "Canada",
+      "continent": "North America",
+      "isdNumber": "+1",
+      "capitalcity": "Ottawa"
+    },
+    {
+      "id": 5,
+      "countryName": "Japan",
+      "continent": "Asia",
+      "isdNumber": "+81",
+      "capitalcity": "Tokyo"
+    },
+    {
+      "id": 6,
+      "countryName": "South Korea",
+      "continent": "Asia",
+      "isdNumber": "+82",
+      "capitalcity": "Seoul"
+    }
+  ]
